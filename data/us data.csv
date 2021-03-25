@@ -1,0 +1,113 @@
+﻿Sectors,Employment 2017,Employment 2009,level
+NAICS 111 Crop production,"537,546","559,820",3
+NAICS 112 Animal production and aquaculture,"263,149","251,658",3
+NAICS 113 Forestry and logging,"50,819","55,330",3
+"NAICS 114 Fishing, hunting and trapping","8,177","7,688",3
+NAICS 115 Agriculture and forestry support activities,"367,336","358,703",3
+NAICS 211 Oil and gas extraction,"142,831","194,433",3
+"NAICS 212 Mining, except oil and gas","190,687","200,228",3
+NAICS 213 Support activities for mining,"350,427","378,288",3
+NAICS 221 Utilities,"546,274","551,205",3
+NAICS 236 Construction of buildings,"1,629,755","1,388,552",3
+NAICS 237 Heavy and civil engineering construction,"1,054,804","910,828",3
+NAICS 238 Specialty trade contractors,"4,647,162","3,970,142",3
+NAICS 311 Food manufacturing,"1,610,868","1,477,523",3
+NAICS 312 Beverage and tobacco product manufacturing,"277,163","216,078",3
+NAICS 313 Textile mills,"108,723","116,826",3
+NAICS 314 Textile product mills,"113,426","115,143",3
+NAICS 315 Apparel manufacturing,"109,902","136,610",3
+NAICS 316 Leather and allied product manufacturing,"27,572","28,993",3
+NAICS 321 Wood product manufacturing,"404,110","375,929",3
+NAICS 322 Paper manufacturing,"364,469","370,251",3
+NAICS 323 Printing and related support activities,"423,904","448,104",3
+NAICS 324 Petroleum and coal products manufacturing,"112,747","107,928",3
+NAICS 325 Chemical manufacturing,"845,575","802,351",3
+NAICS 326 Plastics and rubber products manufacturing,"731,113","683,433",3
+NAICS 327 Nonmetallic mineral product manufacturing,"416,366","392,435",3
+NAICS 331 Primary metal manufacturing,"387,552","395,985",3
+NAICS 332 Fabricated metal product manufacturing,"1,485,943","1,458,539",3
+NAICS 333 Machinery manufacturing,"1,127,355","1,122,429",3
+NAICS 334 Computer and electronic product manufacturing,"1,067,479","1,047,443",3
+NAICS 335 Electrical equipment and appliance mfg.,"401,268","378,470",3
+NAICS 336 Transportation equipment manufacturing,"1,731,152","1,592,413",3
+NAICS 337 Furniture and related product manufacturing,"385,026","374,840",3
+NAICS 339 Miscellaneous manufacturing,"611,928","583,722",3
+"NAICS 423 Merchant wholesalers, durable goods","3,180,949","2,919,599",3
+"NAICS 424 Merchant wholesalers, nondurable goods","2,155,562","2,022,981",3
+NAICS 425 Electronic markets and agents and brokers,"527,296","902,564",3
+NAICS 441 Motor vehicle and parts dealers,"2,019,580","1,918,639",3
+NAICS 442 Furniture and home furnishings stores,"467,002","458,996",3
+NAICS 443 Electronics and appliance stores,"471,981","505,000",3
+NAICS 444 Building material and garden supply stores,"1,335,993","1,275,719",3
+NAICS 445 Food and beverage stores,"3,034,256","3,028,452",3
+NAICS 446 Health and personal care stores,"1,038,405","1,016,844",3
+NAICS 447 Gasoline stations,"926,822","892,736",3
+NAICS 448 Clothing and clothing accessories stores,"1,266,540","1,290,975",3
+"NAICS 451 Sports, hobby, music instrument, book stores","535,655","606,519",3
+NAICS 452 General merchandise stores,"2,939,915","3,091,250",3
+NAICS 453 Miscellaneous store retailers,"824,049","809,159",3
+NAICS 454 Nonstore retailers,"560,428","491,828",3
+NAICS 481 Air transportation,"502,389","455,342",3
+NAICS 482 Rail transportation,391,732,3
+NAICS 483 Water transportation,"64,479","66,589",3
+NAICS 484 Truck transportation,"1,512,352","1,428,707",3
+NAICS 485 Transit and ground passenger transportation,"502,394","480,479",3
+NAICS 486 Pipeline transportation,"50,280","48,358",3
+NAICS 487 Scenic and sightseeing transportation,"31,752","29,155",3
+NAICS 488 Support activities for transportation,"737,008","642,486",3
+NAICS 491 Postal service,"7,309","5,991",3
+NAICS 492 Couriers and messengers,"743,355","565,457",3
+NAICS 493 Warehousing and storage,"1,167,606","793,201",3
+"NAICS 511 Publishing industries, except internet","747,773","720,011",3
+NAICS 512 Motion picture and sound recording industries,"414,072","397,144",3
+"NAICS 515 Broadcasting, except internet","267,010","278,570",3
+NAICS 517 Telecommunications,"716,834","805,850",3
+"NAICS 518 Data processing, hosting and related services","338,155","293,827",3
+NAICS 519 Other information services,"327,134","236,072",3
+NAICS 521 Monetary authorities - central bank,"19,897","17,829",3
+NAICS 522 Credit intermediation and related activities,"2,630,763","2,550,348",3
+"NAICS 523 Securities, commodity contracts, investments","942,546","892,387",3
+NAICS 524 Insurance carriers and related activities,"2,378,357","2,226,872",3
+"NAICS 525 Funds, trusts, and other financial vehicles","16,446","6,725",3
+NAICS 531 Real estate,"1,667,474","1,506,085",3
+NAICS 532 Rental and leasing services,"570,298","533,876",3
+NAICS 533 Lessors of nonfinancial intangible assets,"22,779","23,301",3
+NAICS 541 Professional and technical services,"9,522,362","8,614,900",3
+NAICS 551 Management of companies and enterprises,"2,393,271","2,183,573",3
+NAICS 561 Administrative and support services,"8,743,834","8,253,351",3
+NAICS 562 Waste management and remediation services,"444,976","389,382",3
+NAICS 611 Educational services,"3,028,480","2,787,887",3
+NAICS 621 Ambulatory health care services,"7,629,000","6,779,051",3
+NAICS 622 Hospitals,"5,094,107","4,782,101",3
+NAICS 623 Nursing and residential care facilities,"3,347,538","3,267,987",3
+NAICS 624 Social assistance,"3,995,049","3,412,067",3
+NAICS 711 Performing arts and spectator sports,"520,924","459,381",3
+"NAICS 712 Museums, historical sites, zoos, and parks","168,456","149,986",3
+"NAICS 713 Amusements, gambling, and recreation","1,674,735","1,490,464",3
+NAICS 721 Accommodation,"2,016,495","1,872,843",3
+NAICS 722 Food services and drinking places,"11,981,265","10,966,858",3
+NAICS 811 Repair and maintenance,"1,344,696","1,271,908",3
+NAICS 812 Personal and laundry services,"1,519,177","1,397,519",3
+NAICS 813 Membership associations and organizations,"1,385,237","1,334,669",3
+NAICS 814 Private households,"288,338","280,464",3
+NAICS 999 Unclassified,"156,238","210,736",3
+"NAICS 11 Agriculture, forestry, fishing and hunting","1,227,027","1,307,822",2
+"NAICS 21 Mining, quarrying, and oil and gas extraction","683,945","761,334",2
+NAICS 22 Utilities,"546,274","552,454",2
+NAICS 23 Construction,"7,331,721","6,450,997",2
+NAICS 31-33 Manufacturing,"12,743,641","12,280,122",2
+NAICS 42 Wholesale trade,"5,863,807","5,878,215",2
+NAICS 44-45 Retail trade,"15,420,626","15,539,844",2
+NAICS 48-49 Transportation and warehousing,"5,319,315","4,561,914",2
+NAICS 51 Information,"2,810,978","2,751,171",2
+NAICS 52 Finance and insurance,"5,988,009","5,712,861",2
+NAICS 53 Real estate and rental and leasing,"2,260,551","2,090,163",2
+NAICS 54 Professional and technical services,"9,522,362","8,524,815",2
+NAICS 55 Management of companies and enterprises,"2,393,271","2,191,296",2
+NAICS 56 Administrative and waste services,"9,188,810","8,831,871",2
+NAICS 61 Educational services,"3,028,480","2,752,685",2
+NAICS 62 Health care and social assistance,"20,065,694","18,332,375",2
+"NAICS 71 Arts, entertainment, and recreation","2,364,115","2,249,516",2
+NAICS 72 Accommodation and food services,"13,997,760","13,119,765",2
+"NAICS 81 Other services, except public administration","4,537,448","4,327,565",2
+NAICS 99 Unclassified,"156,238","223,296",2

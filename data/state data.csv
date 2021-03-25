@@ -1,0 +1,418 @@
+﻿State,Sector,Employment 2017,Employment 2009,level
+Maine,NAICS 111 Crop production,"1,928","1,780",3
+Maine,NAICS 112 Animal production and aquaculture,950,928,3
+Maine,NAICS 113 Forestry and logging,"2,179","1,846",3
+Maine,"NAICS 114 Fishing, hunting and trapping",651,417,3
+Maine,NAICS 115 Agriculture and forestry support activities,316,380,3
+Maine,NAICS 221 Utilities,"1,599","1,607",3
+Maine,NAICS 236 Construction of buildings,"6,832","5,913",3
+Maine,NAICS 237 Heavy and civil engineering construction,"2,968","2,699",3
+Maine,NAICS 238 Specialty trade contractors,"17,637","15,866",3
+Maine,NAICS 311 Food manufacturing,"5,408","5,135",3
+Maine,NAICS 312 Beverage and tobacco product manufacturing,"1,874","1,288",3
+Maine,NAICS 313 Textile mills,904,"1,211",3
+Maine,NAICS 314 Textile product mills,840,767,3
+Maine,NAICS 315 Apparel manufacturing,194,269,3
+Maine,NAICS 316 Leather and allied product manufacturing,"1,823","1,849",3
+Maine,NAICS 321 Wood product manufacturing,"4,402","4,621",3
+Maine,NAICS 322 Paper manufacturing,"4,483","5,450",3
+Maine,NAICS 323 Printing and related support activities,"1,590","1,437",3
+Maine,NAICS 324 Petroleum and coal products manufacturing,206,316,3
+Maine,NAICS 325 Chemical manufacturing,"2,754","2,312",3
+Maine,NAICS 326 Plastics and rubber products manufacturing,"2,245","2,025",3
+Maine,NAICS 327 Nonmetallic mineral product manufacturing,"1,395","1,272",3
+Maine,NAICS 331 Primary metal manufacturing,280,269,3
+Maine,NAICS 332 Fabricated metal product manufacturing,"5,209","4,914",3
+Maine,NAICS 333 Machinery manufacturing,"2,141","2,400",3
+Maine,NAICS 334 Computer and electronic product manufacturing,"2,244","2,149",3
+Maine,NAICS 335 Electrical equipment and appliance mfg.,424,389,3
+Maine,NAICS 336 Transportation equipment manufacturing,"10,371","9,131",3
+Maine,NAICS 337 Furniture and related product manufacturing,"1,256","1,185",3
+Maine,NAICS 339 Miscellaneous manufacturing,"1,866","1,592",3
+Maine,"NAICS 423 Merchant wholesalers, durable goods","9,655","8,119",3
+Maine,"NAICS 424 Merchant wholesalers, nondurable goods","8,192","7,534",3
+Maine,NAICS 425 Electronic markets and agents and brokers,"1,265","3,868",3
+Maine,NAICS 441 Motor vehicle and parts dealers,"10,524","10,196",3
+Maine,NAICS 442 Furniture and home furnishings stores,"1,648","1,565",3
+Maine,NAICS 443 Electronics and appliance stores,"1,740","1,920",3
+Maine,NAICS 444 Building material and garden supply stores,"7,329","7,534",3
+Maine,NAICS 445 Food and beverage stores,"18,193","17,547",3
+Maine,NAICS 446 Health and personal care stores,"3,703","3,815",3
+Maine,NAICS 447 Gasoline stations,"7,360","7,375",3
+Maine,NAICS 448 Clothing and clothing accessories stores,"4,017","4,432",3
+Maine,"NAICS 451 Sports, hobby, music instrument, book stores","2,709","2,817",3
+Maine,NAICS 452 General merchandise stores,"12,649","12,628",3
+Maine,NAICS 453 Miscellaneous store retailers,"3,920","3,931",3
+Maine,NAICS 454 Nonstore retailers,"5,314","4,875",3
+Maine,NAICS 481 Air transportation,252,175,3
+Maine,NAICS 483 Water transportation,76,73,3
+Maine,NAICS 484 Truck transportation,"5,714","5,670",3
+Maine,NAICS 485 Transit and ground passenger transportation,"1,712","1,621",3
+Maine,NAICS 486 Pipeline transportation,73,83,3
+Maine,NAICS 487 Scenic and sightseeing transportation,127,217,3
+Maine,NAICS 488 Support activities for transportation,"1,535","1,591",3
+Maine,NAICS 491 Postal service,27,37,3
+Maine,NAICS 492 Couriers and messengers,"2,604","1,879",3
+Maine,NAICS 493 Warehousing and storage,"4,115","3,888",3
+Maine,"NAICS 511 Publishing industries, except internet","1,807","2,196",3
+Maine,NAICS 512 Motion picture and sound recording industries,862,699,3
+Maine,"NAICS 515 Broadcasting, except internet",986,"1,055",3
+Maine,NAICS 517 Telecommunications,"2,202","2,410",3
+Maine,"NAICS 518 Data processing, hosting and related services",619,471,3
+Maine,NAICS 519 Other information services,694,721,3
+Maine,NAICS 522 Credit intermediation and related activities,"11,260","10,477",3
+Maine,"NAICS 523 Securities, commodity contracts, investments","1,514","1,369",3
+Maine,NAICS 524 Insurance carriers and related activities,"10,546","10,599",3
+Maine,"NAICS 525 Funds, trusts, and other financial vehicles",41,4,3
+Maine,NAICS 531 Real estate,"4,749","3,175",3
+Maine,NAICS 541 Professional and technical services,"27,295","21,923",3
+Maine,NAICS 551 Management of companies and enterprises,"11,820","13,349",3
+Maine,NAICS 561 Administrative and support services,"25,836","9,012",3
+Maine,NAICS 562 Waste management and remediation services,"2,125","27,169",3
+Maine,NAICS 611 Educational services,"13,425","1,927",3
+Maine,NAICS 621 Ambulatory health care services,"29,358","12,869",3
+Maine,NAICS 622 Hospitals,"32,592","27,397",3
+Maine,NAICS 623 Nursing and residential care facilities,"22,536","33,248",3
+Maine,NAICS 624 Social assistance,"20,065","23,031",3
+Maine,NAICS 711 Performing arts and spectator sports,"1,237","1,500",3
+Maine,"NAICS 712 Museums, historical sites, zoos, and parks",527,512,3
+Maine,"NAICS 713 Amusements, gambling, and recreation","6,762","5,744",3
+Maine,NAICS 721 Accommodation,"8,163","9,000",3
+Maine,NAICS 722 Food services and drinking places,"41,320","40,685",3
+Maine,NAICS 811 Repair and maintenance,"5,774","5,591",3
+Maine,NAICS 812 Personal and laundry services,"4,430","4,193",3
+Maine,NAICS 813 Membership associations and organizations,"5,975","5,808",3
+Maine,NAICS 814 Private households,"1,106","1,803",3
+Maine,"NAICS 11 Agriculture, forestry, fishing and hunting","6,108","5,351",2
+Maine,"NAICS 21 Mining, quarrying, and oil and gas extraction",203,184,2
+Maine,NAICS 22 Utilities,"1,605","1,607",2
+Maine,NAICS 23 Construction,"28,059","24,478",2
+Maine,NAICS 31-33 Manufacturing,"52,049","49,981",2
+Maine,NAICS 42 Wholesale trade,"19,127","19,521",2
+Maine,NAICS 44-45 Retail trade,"78,118","78,635",2
+Maine,NAICS 48-49 Transportation and warehousing,"15,444","15,234",2
+Maine,NAICS 51 Information,"7,090","7,552",2
+Maine,NAICS 52 Finance and insurance,"23,640","22,449",2
+Maine,NAICS 53 Real estate and rental and leasing,"6,586","6,098",2
+Maine,NAICS 54 Professional and technical services,"27,921","25,230",2
+Maine,NAICS 55 Management of companies and enterprises,"11,539","9,012",2
+Maine,NAICS 56 Administrative and waste services,"28,560","29,096",2
+Maine,NAICS 61 Educational services,"13,819","12,869",2
+Maine,NAICS 62 Health care and social assistance,"105,581","102,190",2
+Maine,"NAICS 71 Arts, entertainment, and recreation","8,772","7,756",2
+Maine,NAICS 72 Accommodation and food services,"53,261","49,685",2
+Maine,"NAICS 81 Other services, except public administration","17,517","17,395",2
+Maine,NAICS 99 Unclassified,"2,790",284,2
+Massachusetts,NAICS 111 Crop production,"4,455","3,102",3
+Massachusetts,NAICS 112 Animal production and aquaculture,"2,061","1,691",3
+Massachusetts,NAICS 113 Forestry and logging,140,117,3
+Massachusetts,"NAICS 114 Fishing, hunting and trapping","1,471","1,410",3
+Massachusetts,NAICS 115 Agriculture and forestry support activities,619,557,3
+Massachusetts,"NAICS 212 Mining, except oil and gas",866,9,3
+Massachusetts,NAICS 221 Utilities,"11,694",831,3
+Massachusetts,NAICS 236 Construction of buildings,"33,597",128,3
+Massachusetts,NAICS 237 Heavy and civil engineering construction,"13,575","10,474",3
+Massachusetts,NAICS 238 Specialty trade contractors,"112,052","28,271",3
+Massachusetts,NAICS 311 Food manufacturing,"26,062","13,394",3
+Massachusetts,NAICS 312 Beverage and tobacco product manufacturing,"5,586","91,450",3
+Massachusetts,NAICS 313 Textile mills,"2,491","24,326",3
+Massachusetts,NAICS 314 Textile product mills,"1,636","3,342",3
+Massachusetts,NAICS 315 Apparel manufacturing,"2,677","3,246",3
+Massachusetts,NAICS 316 Leather and allied product manufacturing,"1,797","2,057",3
+Massachusetts,NAICS 321 Wood product manufacturing,"2,661","2,463",3
+Massachusetts,NAICS 322 Paper manufacturing,"7,431","1,742",3
+Massachusetts,NAICS 323 Printing and related support activities,"9,895","2,498",3
+Massachusetts,NAICS 324 Petroleum and coal products manufacturing,"1,057","8,039",3
+Massachusetts,NAICS 325 Chemical manufacturing,"14,827","11,191",3
+Massachusetts,NAICS 326 Plastics and rubber products manufacturing,"12,700",887,3
+Massachusetts,NAICS 327 Nonmetallic mineral product manufacturing,"5,735","17,828",3
+Massachusetts,NAICS 331 Primary metal manufacturing,"2,671","12,708",3
+Massachusetts,NAICS 332 Fabricated metal product manufacturing,"31,591","5,779",3
+Massachusetts,NAICS 333 Machinery manufacturing,"17,352","2,883",3
+Massachusetts,NAICS 334 Computer and electronic product manufacturing,"53,087","32,397",3
+Massachusetts,NAICS 335 Electrical equipment and appliance mfg.,"8,134","16,695",3
+Massachusetts,NAICS 336 Transportation equipment manufacturing,"12,392","56,049",3
+Massachusetts,NAICS 337 Furniture and related product manufacturing,"3,882","8,706",3
+Massachusetts,NAICS 339 Miscellaneous manufacturing,"19,958","12,424",3
+Massachusetts,"NAICS 423 Merchant wholesalers, durable goods","65,513","3,999",3
+Massachusetts,"NAICS 424 Merchant wholesalers, nondurable goods","43,493","19,642",3
+Massachusetts,NAICS 425 Electronic markets and agents and brokers,"13,658","54,823",3
+Massachusetts,NAICS 441 Motor vehicle and parts dealers,"38,834","41,004",3
+Massachusetts,NAICS 442 Furniture and home furnishings stores,"9,988","9,622",3
+Massachusetts,NAICS 443 Electronics and appliance stores,"7,394","36,771",3
+Massachusetts,NAICS 444 Building material and garden supply stores,"26,157","27,460",3
+Massachusetts,NAICS 445 Food and beverage stores,"97,396","101,145",3
+Massachusetts,NAICS 446 Health and personal care stores,"26,313","26,332",3
+Massachusetts,NAICS 447 Gasoline stations,"12,482","12,523",3
+Massachusetts,NAICS 448 Clothing and clothing accessories stores,"29,239","31,374",3
+Massachusetts,"NAICS 451 Sports, hobby, music instrument, book stores","12,417","14,274",3
+Massachusetts,NAICS 452 General merchandise stores,"47,133","48,643",3
+Massachusetts,NAICS 453 Miscellaneous store retailers,"17,875","17,497",3
+Massachusetts,NAICS 454 Nonstore retailers,"18,333","13,781",3
+Massachusetts,NAICS 481 Air transportation,"9,557","7,723",3
+Massachusetts,NAICS 483 Water transportation,556,671,3
+Massachusetts,NAICS 484 Truck transportation,"16,181","15,412",3
+Massachusetts,NAICS 485 Transit and ground passenger transportation,"25,202","23,911",3
+Massachusetts,NAICS 486 Pipeline transportation,142,136,3
+Massachusetts,NAICS 487 Scenic and sightseeing transportation,"1,319","1,250",3
+Massachusetts,NAICS 488 Support activities for transportation,"9,071","7,654",3
+Massachusetts,NAICS 492 Couriers and messengers,"13,543","10,888",3
+Massachusetts,NAICS 493 Warehousing and storage,"12,185","9,731",3
+Massachusetts,"NAICS 511 Publishing industries, except internet","43,153","41,782",3
+Massachusetts,NAICS 512 Motion picture and sound recording industries,"5,885","5,370",3
+Massachusetts,"NAICS 515 Broadcasting, except internet","5,132","5,229",3
+Massachusetts,NAICS 517 Telecommunications,"16,592","17,571",3
+Massachusetts,"NAICS 518 Data processing, hosting and related services","7,618","7,251",3
+Massachusetts,NAICS 519 Other information services,"12,016","10,059",3
+Massachusetts,NAICS 522 Credit intermediation and related activities,"56,171","55,511",3
+Massachusetts,"NAICS 523 Securities, commodity contracts, investments","44,461","43,397",3
+Massachusetts,NAICS 524 Insurance carriers and related activities,"67,314","65,555",3
+Massachusetts,NAICS 531 Real estate,"36,203","31,745",3
+Massachusetts,NAICS 532 Rental and leasing services,"10,832","10,245",3
+Massachusetts,NAICS 533 Lessors of nonfinancial intangible assets,503,571,3
+Massachusetts,NAICS 541 Professional and technical services,"340,865","293,433",3
+Massachusetts,NAICS 551 Management of companies and enterprises,"73,783","64,535",3
+Massachusetts,NAICS 561 Administrative and support services,"172,462","162,085",3
+Massachusetts,NAICS 562 Waste management and remediation services,"12,306","10,992",3
+Massachusetts,NAICS 611 Educational services,"153,082","142,963",3
+Massachusetts,NAICS 621 Ambulatory health care services,"190,381","176,719",3
+Massachusetts,NAICS 622 Hospitals,"194,301","188,541",3
+Massachusetts,NAICS 623 Nursing and residential care facilities,"104,625","102,920",3
+Massachusetts,NAICS 624 Social assistance,"146,379","123,115",3
+Massachusetts,NAICS 711 Performing arts and spectator sports,"12,414","10,665",3
+Massachusetts,"NAICS 712 Museums, historical sites, zoos, and parks","6,028","5,632",3
+Massachusetts,"NAICS 713 Amusements, gambling, and recreation","40,858","34,911",3
+Massachusetts,NAICS 721 Accommodation,"36,631","33,174",3
+Massachusetts,NAICS 722 Food services and drinking places,"269,329","253,313",3
+Massachusetts,NAICS 811 Repair and maintenance,"27,874","26,389",3
+Massachusetts,NAICS 812 Personal and laundry services,"45,295","41,218",3
+Massachusetts,NAICS 813 Membership associations and organizations,"39,471","39,339",3
+Massachusetts,NAICS 814 Private households,"6,649","6,737",3
+Massachusetts,"NAICS 11 Agriculture, forestry, fishing and hunting","8,746","6,877",2
+Massachusetts,"NAICS 21 Mining, quarrying, and oil and gas extraction",952,968,2
+Massachusetts,NAICS 22 Utilities,"11,694","10,474",2
+Massachusetts,NAICS 23 Construction,"159,224","133,115",2
+Massachusetts,NAICS 31-33 Manufacturing,"243,622","248,901",2
+Massachusetts,NAICS 42 Wholesale trade,"122,664","123,287",2
+Massachusetts,NAICS 44-45 Retail trade,"343,561","345,756",2
+Massachusetts,NAICS 48-49 Transportation and warehousing,"87,756","77,376",2
+Massachusetts,NAICS 51 Information,"90,396","87,262",2
+Massachusetts,NAICS 52 Finance and insurance,"168,980","165,555",2
+Massachusetts,NAICS 53 Real estate and rental and leasing,"47,538","42,561",2
+Massachusetts,NAICS 54 Professional and technical services,"340,865","293,433",2
+Massachusetts,NAICS 55 Management of companies and enterprises,"73,783","64,535",2
+Massachusetts,NAICS 56 Administrative and waste services,"184,768","173,077",2
+Massachusetts,NAICS 61 Educational services,"153,082","142,963",2
+Massachusetts,NAICS 62 Health care and social assistance,"635,686","591,295",2
+Massachusetts,"NAICS 71 Arts, entertainment, and recreation","59,300","51,208",2
+Massachusetts,NAICS 72 Accommodation and food services,"305,960","286,487",2
+Massachusetts,"NAICS 81 Other services, except public administration","119,289","113,683",2
+New Hampshire,NAICS 111 Crop production,917,796,3
+New Hampshire,NAICS 112 Animal production and aquaculture,477,480,3
+New Hampshire,NAICS 113 Forestry and logging,404,370,3
+New Hampshire,"NAICS 212 Mining, except oil and gas",431,425,3
+New Hampshire,NAICS 213 Support activities for mining,99,81,3
+New Hampshire,NAICS 221 Utilities,"2,018","2,190",3
+New Hampshire,NAICS 236 Construction of buildings,"5,736","5,060",3
+New Hampshire,NAICS 237 Heavy and civil engineering construction,"3,344","2,926",3
+New Hampshire,NAICS 238 Specialty trade contractors,"17,670","14,871",3
+New Hampshire,NAICS 311 Food manufacturing,"2,718","2,444",3
+New Hampshire,NAICS 312 Beverage and tobacco product manufacturing,"1,200",840,3
+New Hampshire,NAICS 313 Textile mills,"1,868","1,932",3
+New Hampshire,NAICS 314 Textile product mills,225,221,3
+New Hampshire,NAICS 315 Apparel manufacturing,457,480,3
+New Hampshire,NAICS 316 Leather and allied product manufacturing,188,243,3
+New Hampshire,NAICS 321 Wood product manufacturing,"1,685","1,697",3
+New Hampshire,NAICS 322 Paper manufacturing,819,906,3
+New Hampshire,NAICS 323 Printing and related support activities,"2,275","2,404",3
+New Hampshire,NAICS 324 Petroleum and coal products manufacturing,236,260,3
+New Hampshire,NAICS 325 Chemical manufacturing,"2,428","1,901",3
+New Hampshire,NAICS 326 Plastics and rubber products manufacturing,"5,565","5,216",3
+New Hampshire,NAICS 327 Nonmetallic mineral product manufacturing,"1,865","1,794",3
+New Hampshire,NAICS 331 Primary metal manufacturing,"2,451","2,369",3
+New Hampshire,NAICS 332 Fabricated metal product manufacturing,"11,843","11,275",3
+New Hampshire,NAICS 333 Machinery manufacturing,"7,059","7,020",3
+New Hampshire,NAICS 334 Computer and electronic product manufacturing,"16,380","14,703",3
+New Hampshire,NAICS 335 Electrical equipment and appliance mfg.,"4,225","3,982",3
+New Hampshire,NAICS 336 Transportation equipment manufacturing,"2,595","2,053",3
+New Hampshire,NAICS 337 Furniture and related product manufacturing,887,976,3
+New Hampshire,NAICS 339 Miscellaneous manufacturing,"4,339","4,075",3
+New Hampshire,"NAICS 423 Merchant wholesalers, durable goods","12,117","10,979",3
+New Hampshire,"NAICS 424 Merchant wholesalers, nondurable goods","7,950","7,092",3
+New Hampshire,NAICS 425 Electronic markets and agents and brokers,"7,938","9,321",3
+New Hampshire,NAICS 441 Motor vehicle and parts dealers,"12,718","12,203",3
+New Hampshire,NAICS 442 Furniture and home furnishings stores,"2,697","2,394",3
+New Hampshire,NAICS 443 Electronics and appliance stores,"2,924","3,337",3
+New Hampshire,NAICS 444 Building material and garden supply stores,"9,847","9,243",3
+New Hampshire,NAICS 445 Food and beverage stores,"21,662","21,216",3
+New Hampshire,NAICS 446 Health and personal care stores,"4,152","4,347",3
+New Hampshire,NAICS 447 Gasoline stations,"4,432","4,464",3
+New Hampshire,NAICS 448 Clothing and clothing accessories stores,"5,593","6,278",3
+New Hampshire,"NAICS 451 Sports, hobby, music instrument, book stores","3,844","4,412",3
+New Hampshire,NAICS 452 General merchandise stores,"13,871","14,646",3
+New Hampshire,NAICS 453 Miscellaneous store retailers,"5,208","5,340",3
+New Hampshire,NAICS 454 Nonstore retailers,"5,706","4,986",3
+New Hampshire,NAICS 481 Air transportation,521,465,3
+New Hampshire,NAICS 484 Truck transportation,"3,073","2,930",3
+New Hampshire,NAICS 485 Transit and ground passenger transportation,"3,720","3,396",3
+New Hampshire,NAICS 487 Scenic and sightseeing transportation,190,175,3
+New Hampshire,NAICS 488 Support activities for transportation,"1,519","1,009",3
+New Hampshire,NAICS 492 Couriers and messengers,"2,942",24,3
+New Hampshire,NAICS 493 Warehousing and storage,"2,720","2,392",3
+New Hampshire,"NAICS 511 Publishing industries, except internet","5,112","2,275",3
+New Hampshire,NAICS 512 Motion picture and sound recording industries,859,"4,887",3
+New Hampshire,"NAICS 515 Broadcasting, except internet",633,862,3
+New Hampshire,NAICS 517 Telecommunications,"3,741",728,3
+New Hampshire,"NAICS 518 Data processing, hosting and related services","1,387","3,929",3
+New Hampshire,NAICS 519 Other information services,480,"1,453",3
+New Hampshire,NAICS 522 Credit intermediation and related activities,"7,982",541,3
+New Hampshire,"NAICS 523 Securities, commodity contracts, investments","6,417","7,735",3
+New Hampshire,NAICS 524 Insurance carriers and related activities,"11,814","6,336",3
+New Hampshire,"NAICS 525 Funds, trusts, and other financial vehicles",22,"14,033",3
+New Hampshire,NAICS 531 Real estate,"4,858","4,551",3
+New Hampshire,NAICS 532 Rental and leasing services,"1,959","1,827",3
+New Hampshire,NAICS 533 Lessors of nonfinancial intangible assets,29,28,3
+New Hampshire,NAICS 541 Professional and technical services,"38,865","33,413",3
+New Hampshire,NAICS 551 Management of companies and enterprises,"9,174","8,449",3
+New Hampshire,NAICS 561 Administrative and support services,"32,578","31,957",3
+New Hampshire,NAICS 562 Waste management and remediation services,"1,986","1,713",3
+New Hampshire,NAICS 611 Educational services,"20,633","19,594",3
+New Hampshire,NAICS 621 Ambulatory health care services,"34,093","30,296",3
+New Hampshire,NAICS 622 Hospitals,"29,464","28,050",3
+New Hampshire,NAICS 623 Nursing and residential care facilities,"14,093","14,861",3
+New Hampshire,NAICS 624 Social assistance,"15,909","14,344",3
+New Hampshire,NAICS 711 Performing arts and spectator sports,"1,391","1,447",3
+New Hampshire,"NAICS 712 Museums, historical sites, zoos, and parks",562,472,3
+New Hampshire,"NAICS 713 Amusements, gambling, and recreation","8,894","7,606",3
+New Hampshire,NAICS 721 Accommodation,"8,029","7,665",3
+New Hampshire,NAICS 722 Food services and drinking places,"49,823","46,055",3
+New Hampshire,NAICS 811 Repair and maintenance,"7,083","6,749",3
+New Hampshire,NAICS 812 Personal and laundry services,"7,266","6,764",3
+New Hampshire,NAICS 813 Membership associations and organizations,"5,868","5,489",3
+New Hampshire,NAICS 814 Private households,776,814,3
+New Hampshire,"NAICS 11 Agriculture, forestry, fishing and hunting","1,961","1,810",2
+New Hampshire,"NAICS 21 Mining, quarrying, and oil and gas extraction",530,506,2
+New Hampshire,NAICS 22 Utilities,"2,018","2,190",2
+New Hampshire,NAICS 23 Construction,"26,750","22,857",2
+New Hampshire,NAICS 31-33 Manufacturing,"71,308","66,791",2
+New Hampshire,NAICS 42 Wholesale trade,"28,005","27,392",2
+New Hampshire,NAICS 44-45 Retail trade,"92,654","92,866",2
+New Hampshire,NAICS 48-49 Transportation and warehousing,"14,731","12,671",2
+New Hampshire,NAICS 51 Information,"12,212","12,400",2
+New Hampshire,NAICS 52 Finance and insurance,"26,235","28,132",2
+New Hampshire,NAICS 53 Real estate and rental and leasing,"6,846","6,394",2
+New Hampshire,NAICS 54 Professional and technical services,"38,865","33,413",2
+New Hampshire,NAICS 55 Management of companies and enterprises,"9,174","8,449",2
+New Hampshire,NAICS 56 Administrative and waste services,"34,564","33,670",2
+New Hampshire,NAICS 61 Educational services,"20,633","19,594",2
+New Hampshire,NAICS 62 Health care and social assistance,"93,559","87,551",2
+New Hampshire,"NAICS 71 Arts, entertainment, and recreation","10,847","9,525",2
+New Hampshire,NAICS 72 Accommodation and food services,"57,852","53,720",2
+New Hampshire,"NAICS 81 Other services, except public administration","20,993","19,816",2
+Pennsylvania,NAICS 111 Crop production,"12,764","13,282",3
+Pennsylvania,NAICS 112 Animal production and aquaculture,"7,446","7,501",3
+Pennsylvania,NAICS 113 Forestry and logging,858,860,3
+Pennsylvania,"NAICS 114 Fishing, hunting and trapping",36,37,3
+Pennsylvania,NAICS 115 Agriculture and forestry support activities,"3,271","3,358",3
+Pennsylvania,NAICS 211 Oil and gas extraction,"4,840","4,848",3
+Pennsylvania,"NAICS 212 Mining, except oil and gas","9,977","10,131",3
+Pennsylvania,NAICS 213 Support activities for mining,"14,061","13,998",3
+Pennsylvania,NAICS 221 Utilities,"23,223","23,211",3
+Pennsylvania,NAICS 236 Construction of buildings,"59,967","61,108",3
+Pennsylvania,NAICS 237 Heavy and civil engineering construction,"42,258","43,599",3
+Pennsylvania,NAICS 238 Specialty trade contractors,"156,809","161,457",3
+Pennsylvania,NAICS 311 Food manufacturing,"73,760","73,292",3
+Pennsylvania,NAICS 312 Beverage and tobacco product manufacturing,"10,867","11,198",3
+Pennsylvania,NAICS 313 Textile mills,"3,442","3,444",3
+Pennsylvania,NAICS 314 Textile product mills,"3,318","3,344",3
+Pennsylvania,NAICS 315 Apparel manufacturing,"4,080","4,095",3
+Pennsylvania,NAICS 316 Leather and allied product manufacturing,737,736,3
+Pennsylvania,NAICS 321 Wood product manufacturing,"22,392","22,413",3
+Pennsylvania,NAICS 322 Paper manufacturing,"21,724","21,785",3
+Pennsylvania,NAICS 323 Printing and related support activities,"22,537","22,488",3
+Pennsylvania,NAICS 324 Petroleum and coal products manufacturing,"6,090","6,235",3
+Pennsylvania,NAICS 325 Chemical manufacturing,"41,961","42,069",3
+Pennsylvania,NAICS 326 Plastics and rubber products manufacturing,"40,482","40,538",3
+Pennsylvania,NAICS 327 Nonmetallic mineral product manufacturing,"20,971","21,136",3
+Pennsylvania,NAICS 331 Primary metal manufacturing,"36,148","36,155",3
+Pennsylvania,NAICS 332 Fabricated metal product manufacturing,"83,127","83,279",3
+Pennsylvania,NAICS 333 Machinery manufacturing,"46,382","46,505",3
+Pennsylvania,NAICS 334 Computer and electronic product manufacturing,"29,838","29,964",3
+Pennsylvania,NAICS 335 Electrical equipment and appliance mfg.,"27,216","27,207",3
+Pennsylvania,NAICS 336 Transportation equipment manufacturing,"38,934","39,119",3
+Pennsylvania,NAICS 337 Furniture and related product manufacturing,"16,022","16,040",3
+Pennsylvania,NAICS 339 Miscellaneous manufacturing,"25,510","25,649",3
+Pennsylvania,"NAICS 423 Merchant wholesalers, durable goods","106,373","106,649",3
+Pennsylvania,"NAICS 424 Merchant wholesalers, nondurable goods","65,949","66,341",3
+Pennsylvania,NAICS 425 Electronic markets and agents and brokers,"44,466","44,521",3
+Pennsylvania,NAICS 441 Motor vehicle and parts dealers,"80,147","80,610",3
+Pennsylvania,NAICS 442 Furniture and home furnishings stores,"15,854","15,792",3
+Pennsylvania,NAICS 443 Electronics and appliance stores,"16,364","16,151",3
+Pennsylvania,NAICS 444 Building material and garden supply stores,"47,528","48,741",3
+Pennsylvania,NAICS 445 Food and beverage stores,"135,765","136,848",3
+Pennsylvania,NAICS 446 Health and personal care stores,"43,251","43,122",3
+Pennsylvania,NAICS 447 Gasoline stations,"40,733","41,018",3
+Pennsylvania,NAICS 448 Clothing and clothing accessories stores,"41,643","41,483",3
+Pennsylvania,"NAICS 451 Sports, hobby, music instrument, book stores","18,950","18,442",3
+Pennsylvania,NAICS 452 General merchandise stores,"102,757","103,586",3
+Pennsylvania,NAICS 453 Miscellaneous store retailers,"32,550","33,854",3
+Pennsylvania,NAICS 454 Nonstore retailers,"27,730","27,739",3
+Pennsylvania,NAICS 481 Air transportation,"13,237","13,286",3
+Pennsylvania,NAICS 483 Water transportation,682,692,3
+Pennsylvania,NAICS 484 Truck transportation,"67,478","68,242",3
+Pennsylvania,NAICS 485 Transit and ground passenger transportation,"37,828","37,914",3
+Pennsylvania,NAICS 486 Pipeline transportation,"2,329","2,357",3
+Pennsylvania,NAICS 487 Scenic and sightseeing transportation,745,862,3
+Pennsylvania,NAICS 488 Support activities for transportation,"18,246","18,330",3
+Pennsylvania,NAICS 491 Postal service,21,24,3
+Pennsylvania,NAICS 492 Couriers and messengers,"32,182","32,933",3
+Pennsylvania,NAICS 493 Warehousing and storage,"88,552","88,602",3
+Pennsylvania,"NAICS 511 Publishing industries, except internet","24,356","24,340",3
+Pennsylvania,NAICS 512 Motion picture and sound recording industries,"7,587","8,102",3
+Pennsylvania,"NAICS 515 Broadcasting, except internet","7,751","7,649",3
+Pennsylvania,NAICS 517 Telecommunications,"27,228","27,261",3
+Pennsylvania,"NAICS 518 Data processing, hosting and related services","10,000","9,991",3
+Pennsylvania,NAICS 519 Other information services,"8,889","8,918",3
+Pennsylvania,NAICS 522 Credit intermediation and related activities,"91,436","91,814",3
+Pennsylvania,"NAICS 523 Securities, commodity contracts, investments","44,361","44,389",3
+Pennsylvania,NAICS 524 Insurance carriers and related activities,"125,866","126,283",3
+Pennsylvania,NAICS 531 Real estate,"43,900","44,481",3
+Pennsylvania,NAICS 532 Rental and leasing services,"19,893","20,569",3
+Pennsylvania,NAICS 533 Lessors of nonfinancial intangible assets,506,506,3
+Pennsylvania,NAICS 541 Professional and technical services,"363,079","358,771",3
+Pennsylvania,NAICS 551 Management of companies and enterprises,"135,077","135,212",3
+Pennsylvania,NAICS 561 Administrative and support services,"297,665","304,243",3
+Pennsylvania,NAICS 562 Waste management and remediation services,"18,936","19,143",3
+Pennsylvania,NAICS 611 Educational services,"189,870","186,135",3
+Pennsylvania,NAICS 621 Ambulatory health care services,"344,855","345,995",3
+Pennsylvania,NAICS 622 Hospitals,"273,055","273,608",3
+Pennsylvania,NAICS 623 Nursing and residential care facilities,"202,669","203,611",3
+Pennsylvania,NAICS 624 Social assistance,"222,273","224,907",3
+Pennsylvania,NAICS 711 Performing arts and spectator sports,"19,868","20,340",3
+Pennsylvania,"NAICS 712 Museums, historical sites, zoos, and parks","7,851","8,385",3
+Pennsylvania,"NAICS 713 Amusements, gambling, and recreation","66,993","76,794",3
+Pennsylvania,NAICS 721 Accommodation,"58,603","61,584",3
+Pennsylvania,NAICS 722 Food services and drinking places,"419,816","426,752",3
+Pennsylvania,NAICS 811 Repair and maintenance,"53,819","53,526",3
+Pennsylvania,NAICS 812 Personal and laundry services,"70,821","72,017",3
+Pennsylvania,NAICS 813 Membership associations and organizations,"71,893","73,159",3
+Pennsylvania,NAICS 814 Private households,"4,150","4,115",3
+Pennsylvania,"NAICS 11 Agriculture, forestry, fishing and hunting","24,375","23,779",2
+Pennsylvania,"NAICS 21 Mining, quarrying, and oil and gas extraction","28,878","34,742",2
+Pennsylvania,NAICS 22 Utilities,"23,223","24,226",2
+Pennsylvania,NAICS 23 Construction,"259,034","230,010",2
+Pennsylvania,NAICS 31-33 Manufacturing,"575,538","567,625",2
+Pennsylvania,NAICS 42 Wholesale trade,"216,788","223,891",2
+Pennsylvania,NAICS 44-45 Retail trade,"603,272","623,395",2
+Pennsylvania,NAICS 48-49 Transportation and warehousing,"261,300","226,936",2
+Pennsylvania,NAICS 51 Information,"85,811","84,313",2
+Pennsylvania,NAICS 52 Finance and insurance,"262,716","253,114",2
+Pennsylvania,NAICS 53 Real estate and rental and leasing,"64,299","60,986",2
+Pennsylvania,NAICS 54 Professional and technical services,"363,079","337,250",2
+Pennsylvania,NAICS 55 Management of companies and enterprises,"135,077","131,662",2
+Pennsylvania,NAICS 56 Administrative and waste services,"316,601","304,713",2
+Pennsylvania,NAICS 61 Educational services,"189,870","178,334",2
+Pennsylvania,NAICS 62 Health care and social assistance,"1,042,852","947,104",2
+Pennsylvania,"NAICS 71 Arts, entertainment, and recreation","94,712","85,840",2
+Pennsylvania,NAICS 72 Accommodation and food services,"478,419","450,046",2
+Pennsylvania,"NAICS 81 Other services, except public administration","200,683","192,356",2
